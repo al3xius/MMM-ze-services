@@ -1,6 +1,6 @@
 ﻿# MMM-ze-services
 
-This is a module for the [MagicMirror²](https://github.com/al3xius/MMM-ze-services).
+This is a module for the [MagicMirror²](https://github.com/MichMich/MagicMirror).
 
 This module displayes the remaining charge and range of your Renault ZOE.
 
